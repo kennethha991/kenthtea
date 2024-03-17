@@ -1,0 +1,9 @@
+{
+  "name": "@kennethha991/kenthtea",
+  "version": "1.0.0",
+  "description": "A special Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@kennethha991",
+  "repository": "https://github.com/kennethha991/kenthtea.git",
+  "license": "MIT"
+}
